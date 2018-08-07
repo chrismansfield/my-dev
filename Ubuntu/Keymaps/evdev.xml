@@ -1,0 +1,10 @@
+<layout>
+	<configItem>
+	<name>swerty</name>        
+	<shortDescription>Sw</shortDescription>
+	<description>Swerty</description>
+	<languageList>
+		<iso639Id>eng</iso639Id>
+	</languageList>
+	</configItem>
+</layout>
