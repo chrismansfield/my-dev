@@ -16,7 +16,7 @@ Update using `git submodule update`
 
 Powerline fonts are included as a submodule in `submodules/powerline-fonts`
 
-On bash, run `install.sh`, on PowerShell run `install.ps1`
+On Linux, run `install.sh`, on Windows run `install.ps1`
 
 ### Windows
 
