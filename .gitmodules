@@ -4,3 +4,6 @@
 [submodule "submodules/posh-git"]
 	path = submodules/posh-git
 	url = https://github.com/dahlbyk/posh-git.git
+[submodule "submodules/pwsh-warp"]
+	path = submodules/pwsh-warp
+	url = https://github.com/chrismansfield/pwsh-warp.git
