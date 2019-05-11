@@ -20,7 +20,7 @@ On Linux, run `install.sh`, on Windows run `install.ps1`
 
 ### Windows
 
-Run the `Install.ps1` script. Use the -Global flag if the home drive is configured to be on a netwrok drive (common on corporate windows machines).
+Run the `Install.ps1` script. Use the -Global flag if the home drive is configured to be on a network drive (common on corporate windows machines).
 
 The `Install.ps1` script can be run multiple times, whenever updating the repo contents.
 
