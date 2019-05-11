@@ -1,0 +1,24 @@
+[core]
+	editor = code --wait
+	autocrlf = input
+[user]
+	name = Christoffer Mansfield
+	email = christoffer.mansfield@gmail.com	
+[alias]
+	unstage = reset HEAD --
+	co = checkout
+	br = branch
+	ci = commit
+	s = status
+	l = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short
+	la = log --pretty=format:\"%h %ad | %s%Cblue%d %Creset[%an]\" --graph --date=short --all
+	ub = "!git fetch && git branch -f master origin/master && git merge --ff-only master"
+	a = add --interactive
+	unpushed = cherry -v 
+	t = tag --sort=v:refname
+[push]
+	default = simple
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
