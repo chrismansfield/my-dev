@@ -1,0 +1,6 @@
+[submodule "submodules/powerline-fonts"]
+	path = submodules/powerline-fonts
+	url = https://github.com/powerline/fonts.git
+[submodule "submodules/posh-git"]
+	path = submodules/posh-git
+	url = https://github.com/dahlbyk/posh-git.git
