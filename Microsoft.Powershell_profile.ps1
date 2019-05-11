@@ -1,0 +1,1 @@
+Import-Module $Env:DEVENV\submodules\posh-git\src\posh-git.psd1
